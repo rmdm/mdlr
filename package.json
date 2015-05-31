@@ -1,0 +1,23 @@
+{
+  "name": "mdlr",
+  "version": "0.0.1",
+  "description": "Modular everything",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/rmdm/mdlr"
+  },
+  "keywords": [
+    "module"
+  ],
+  "author": "rmdm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmdm/mdlr/issues"
+  },
+  "homepage": "https://github.com/rmdm/mdlr",
+  "dependencies": {
+    "bluebird": "^2.9.27",
+    "lodash": "^3.9.3"
+  }
+}
